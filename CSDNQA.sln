@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libdevrive", "Q188728\libde
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mainapp", "Q188728\mainapp\mainapp.vcxproj", "{D757920E-1DA5-4621-9375-9E08EAE53CEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q189396", "Q189396\Q189396.csproj", "{EBF9F285-6CBC-4D16-8E81-C30620CAAB5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -257,6 +259,16 @@ Global
 		{D757920E-1DA5-4621-9375-9E08EAE53CEE}.Release|Mixed Platforms.Build.0 = Release|Win32
 		{D757920E-1DA5-4621-9375-9E08EAE53CEE}.Release|Win32.ActiveCfg = Release|Win32
 		{D757920E-1DA5-4621-9375-9E08EAE53CEE}.Release|Win32.Build.0 = Release|Win32
+		{EBF9F285-6CBC-4D16-8E81-C30620CAAB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF9F285-6CBC-4D16-8E81-C30620CAAB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF9F285-6CBC-4D16-8E81-C30620CAAB5E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{EBF9F285-6CBC-4D16-8E81-C30620CAAB5E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{EBF9F285-6CBC-4D16-8E81-C30620CAAB5E}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{EBF9F285-6CBC-4D16-8E81-C30620CAAB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF9F285-6CBC-4D16-8E81-C30620CAAB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF9F285-6CBC-4D16-8E81-C30620CAAB5E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{EBF9F285-6CBC-4D16-8E81-C30620CAAB5E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{EBF9F285-6CBC-4D16-8E81-C30620CAAB5E}.Release|Win32.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
